@@ -1,0 +1,10 @@
+1. What is your name?
+Gabrielle Lommel
+2. What are some of your hobbies?
+Knitting, gardening, reading, cooking, cycling
+3. What is your favorite food?
+Broccoli cheddar soup
+4. What pets do you have? If none, what is your favorite animal?
+Two dogs, Honeysuckle and Griffin
+5. Why do you want to learn how to write software?
+I want to learn how to write software so that I can build fun things
